@@ -8,6 +8,7 @@ class penguin {
     public $world;
     public $items;
     public $data;
+    public $room;
 
     // game crumbs
     public $x;
@@ -32,17 +33,17 @@ class penguin {
 
     public function to_string() {
         return implode("|", array(
-            $this->data->id,
-            $this->data->username,
-            $this->data->colour,
-            $this->data->head,
-            $this->data->face,
-            $this->data->neck,
-            $this->data->body,
-            $this->data->hands,
-            $this->data->feet,
-            $this->data->flag,
-            $this->data->photo,
+            $this->data["id"],
+            $this->data["username"],
+            $this->data["colour"],
+            $this->data["head"],
+            $this->data["face"],
+            $this->data["neck"],
+            $this->data["body"],
+            $this->data["hands"],
+            $this->data["feet"],
+            $this->data["flag"],
+            $this->data["photo"],
             $this->x,
             $this->y,
             $this->frame,

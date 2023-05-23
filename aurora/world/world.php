@@ -9,8 +9,10 @@ class world extends aurora\server {
     private $plugins;
 
     public $database;
+    public $rooms;
 
     public function __construct($host, $port) {
+        $this->rooms = new aurora\world\rooms\manager( $this );
         $this->plugins = new aurora\world\plugins\manager( $this );
         $this->database = new aurora\database;
         

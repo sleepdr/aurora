@@ -26,7 +26,7 @@ class packet {
 
     public function parse() {
         if( $this->type == "xt" ) {
-            $this->value = explode("%", $this->buffer);
+            $this->value = array_filter(explode("%", $this->buffer), "strlen");
             $this->type = $this->value[2] . "#" . $this->value[3];
             $this->value = array_splice($this->value, 3);
             $this->valid = true;

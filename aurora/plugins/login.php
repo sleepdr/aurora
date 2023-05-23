@@ -28,7 +28,7 @@ class login extends aurora\world\plugins\plugin {
             return $penguin->write_xt("e", "-1", "101");
         
         $penguin->data = $data;
-        $penguin->items = null; //$this->world->database->find_items($username);
+        $penguin->items = $this->world->database->find_items( $data["id"] ); 
         $penguin->write_xt("l", "-1");
     }
 }

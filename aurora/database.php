@@ -49,4 +49,12 @@ class database extends \mysqli {
         $statement->bind_param("ss", $login_key, $username);
         $statement->execute();
     }
+
+    public function find_items($id) {
+        $statement = $this->prepare("select item_id from items where penguin_id = ?");
+        $statement->bind_param("i", $id);
+        $statement->execute();
+
+        return $statement->get_result()->fetch_all();
+    }
 }
