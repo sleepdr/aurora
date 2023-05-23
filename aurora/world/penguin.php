@@ -26,6 +26,10 @@ class penguin {
         socket_write($this->socket, $buffer . "\x00");
     }
 
+    public function write_xt(...$data) {
+        $this->write("%xt%" . implode("%", $data) . "%");
+    }
+
     public function to_string() {
         return implode("|", array(
             $this->data->id,

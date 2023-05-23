@@ -21,7 +21,7 @@ abstract class server {
 
     // create the server socket
     private function create_socket() {
-        $this->socket = socket_create(2, 1, 6) or $this->socket_errors();
+        $this->socket = socket_create(2, 1, 6) or $this->socket_error();
 
         socket_bind($this->socket, $this->host, $this->port) or $this->socket_error();
         socket_listen($this->socket, 5) or $this->socket_error();

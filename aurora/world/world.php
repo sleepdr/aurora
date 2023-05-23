@@ -6,6 +6,16 @@ use aurora;
 
 class world extends aurora\server {
     private $penguins = array();
+    private $plugins;
+
+    public $database;
+
+    public function __construct($host, $port) {
+        $this->plugins = new aurora\world\plugins\manager( $this );
+        $this->database = new aurora\database;
+        
+        parent::__construct($host, $port);
+    }
 
     private function find_penguin($socket) {
         foreach($this->penguins as & $penguin) {
@@ -20,6 +30,8 @@ class world extends aurora\server {
             $penguin->write("<cross-domain-policy><allow-access-from domain='*' to-ports='*'/></cross-domain-policy>");
             return;
         }
+
+        $this->plugins->handle_packet($penguin, $packet);
     }
 
     protected function handle_accept($socket) {

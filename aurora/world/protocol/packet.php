@@ -36,7 +36,7 @@ class packet {
         if( $this->type == "xml" ) {
             $this->valid = true;
             $this->value = simplexml_load_string($this->buffer);
-            $this->type = @ $this->value->body->attributes()->action;
+            $this->type = (string) @ $this->value->body->attributes()->action;
         }
     }
 }

@@ -7,5 +7,4 @@ spl_autoload_register(function( $class ) {
     file_exists($path) && include $path;
 });
 
-$database = new database();
 $blizzard = new world\world("127.0.0.1", "6114");
