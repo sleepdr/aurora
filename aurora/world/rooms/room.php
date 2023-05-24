@@ -8,8 +8,8 @@ class room {
     // room data
     public $id;
     public $name;
-    public $internal;
     public $is_game;
+    public $internal;
     
     public function __construct(& $world, $id, $crumb) {
         $this->world = $world;
@@ -17,8 +17,8 @@ class room {
 
         $this->id = $id;
         $this->name = $crumb->name;
-        $this->internal = $crumb->internal;
         $this->is_game = $crumb->game == "true";
+        $this->internal = $crumb->internal;
     }
 
     public function broadcast(...$data) {
