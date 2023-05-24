@@ -1,0 +1,2477 @@
+{
+    "1": {
+        "type": "Colour",
+        "cost": 20,
+        "name": "Blue"
+    },
+    "2": {
+        "type": "Colour",
+        "cost": 20,
+        "name": "Green"
+    },
+    "3": {
+        "type": "Colour",
+        "cost": 20,
+        "name": "Pink"
+    },
+    "4": {
+        "type": "Colour",
+        "cost": 20,
+        "name": "Black"
+    },
+    "5": {
+        "type": "Colour",
+        "cost": 20,
+        "name": "Red"
+    },
+    "6": {
+        "type": "Colour",
+        "cost": 20,
+        "name": "Orange"
+    },
+    "7": {
+        "type": "Colour",
+        "cost": 20,
+        "name": "Yellow"
+    },
+    "8": {
+        "type": "Colour",
+        "cost": 20,
+        "name": "Dark Purple"
+    },
+    "9": {
+        "type": "Colour",
+        "cost": 20,
+        "name": "Brown"
+    },
+    "10": {
+        "type": "Colour",
+        "cost": 20,
+        "name": "Peach"
+    },
+    "11": {
+        "type": "Colour",
+        "cost": 20,
+        "name": "Dark Green"
+    },
+    "12": {
+        "type": "Colour",
+        "cost": 20,
+        "name": "Light Blue"
+    },
+    "13": {
+        "type": "Colour",
+        "cost": 20,
+        "name": "Lime Green"
+    },
+    "101": {
+        "type": "Face",
+        "cost": 200,
+        "name": "Black Sunglasses"
+    },
+    "102": {
+        "type": "Face",
+        "cost": 1000,
+        "name": "Night Vision"
+    },
+    "103": {
+        "type": "Face",
+        "cost": 50,
+        "name": "3D Glasses"
+    },
+    "105": {
+        "type": "Face",
+        "cost": 0,
+        "name": "Eyepatch"
+    },
+    "106": {
+        "type": "Face",
+        "cost": 100,
+        "name": "Superhero Mask"
+    },
+    "107": {
+        "type": "Face",
+        "cost": 0,
+        "name": "Blue Sunglasses"
+    },
+    "108": {
+        "type": "Face",
+        "cost": 150,
+        "name": "Blue Sunglasses"
+    },
+    "109": {
+        "type": "Face",
+        "cost": 0,
+        "name": "Free Red Sunglasses"
+    },
+    "110": {
+        "type": "Face",
+        "cost": 150,
+        "name": "Red Sunglasses"
+    },
+    "111": {
+        "type": "Face",
+        "cost": 200,
+        "name": "Designer Glasses"
+    },
+    "112": {
+        "type": "Face",
+        "cost": 0,
+        "name": "Funny-Face Glasses"
+    },
+    "113": {
+        "type": "Face",
+        "cost": 225,
+        "name": "Black Glasses"
+    },
+    "114": {
+        "type": "Face",
+        "cost": 225,
+        "name": "Brown Glasses"
+    },
+    "116": {
+        "type": "Face",
+        "cost": 200,
+        "name": "Snowflake Mask"
+    },
+    "117": {
+        "type": "Face",
+        "cost": 200,
+        "name": "Trendy Sunglasses"
+    },
+    "118": {
+        "type": "Face",
+        "cost": 225,
+        "name": "Trendy White Sunglasses"
+    },
+    "119": {
+        "type": "Face",
+        "cost": 160,
+        "name": "Monocle"
+    },
+    "120": {
+        "type": "Face",
+        "cost": 300,
+        "name": "Alien Mask"
+    },
+    "121": {
+        "type": "Face",
+        "cost": 0,
+        "name": "Green Sunglasses"
+    },
+    "122": {
+        "type": "Face",
+        "cost": 300,
+        "name": "Robot Helmet"
+    },
+    "123": {
+        "type": "Face",
+        "cost": 100,
+        "name": "Blue Superhero Mask"
+    },
+    "124": {
+        "type": "Face",
+        "cost": 100,
+        "name": "Pink Superhero Mask"
+    },
+    "130": {
+        "type": "Face",
+        "cost": 75,
+        "name": "Earring"
+    },
+    "131": {
+        "type": "Face",
+        "cost": 200,
+        "name": "Snorkel"
+    },
+    "132": {
+        "type": "Face",
+        "cost": 250,
+        "name": "Blue Snorkel"
+    },
+    "133": {
+        "type": "Face",
+        "cost": 0,
+        "name": "Red Face Paint"
+    },
+    "134": {
+        "type": "Face",
+        "cost": 0,
+        "name": "Blue Face Paint"
+    },
+    "135": {
+        "type": "Face",
+        "cost": 0,
+        "name": "Yellow Snorkel"
+    },
+    "136": {
+        "type": "Face",
+        "cost": 480,
+        "name": "Ski Goggles"
+    },
+    "137": {
+        "type": "Face",
+        "cost": 220,
+        "name": "Swim Goggles"
+    },
+    "138": {
+        "type": "Face",
+        "cost": 0,
+        "name": "Swirly Glasses"
+    },
+    "162": {
+        "type": "Neck",
+        "cost": 0,
+        "name": "White Beard"
+    },
+    "166": {
+        "type": "Neck",
+        "cost": 60,
+        "name": "Green Bowtie"
+    },
+    "167": {
+        "type": "Neck",
+        "cost": 125,
+        "name": "Green Necktie"
+    },
+    "168": {
+        "type": "Neck",
+        "cost": 0,
+        "name": "Parrot"
+    },
+    "169": {
+        "type": "Neck",
+        "cost": 150,
+        "name": "Green Scarf"
+    },
+    "170": {
+        "type": "Neck",
+        "cost": 0,
+        "name": "Halloween Scarf"
+    },
+    "171": {
+        "type": "Neck",
+        "cost": 0,
+        "name": "Hawaiian Lei"
+    },
+    "172": {
+        "type": "Neck",
+        "cost": 150,
+        "name": "Scarf"
+    },
+    "173": {
+        "type": "Neck",
+        "cost": 0,
+        "name": "Christmas Scarf"
+    },
+    "174": {
+        "type": "Neck",
+        "cost": 300,
+        "name": "Boa"
+    },
+    "175": {
+        "type": "Neck",
+        "cost": 150,
+        "name": "Pink Scarf"
+    },
+    "176": {
+        "type": "Neck",
+        "cost": 125,
+        "name": "Black Tie"
+    },
+    "177": {
+        "type": "Neck",
+        "cost": 150,
+        "name": "Striped Tie"
+    },
+    "179": {
+        "type": "Neck",
+        "cost": 150,
+        "name": "Blue Scarf"
+    },
+    "180": {
+        "type": "Neck",
+        "cost": 380,
+        "name": "Snare Drum"
+    },
+    "181": {
+        "type": "Neck",
+        "cost": 550,
+        "name": "Pearl Necklace"
+    },
+    "182": {
+        "type": "Neck",
+        "cost": 110,
+        "name": "Pendant"
+    },
+    "183": {
+        "type": "Neck",
+        "cost": 600,
+        "name": "Bling Bling Medallion"
+    },
+    "184": {
+        "type": "Neck",
+        "cost": 280,
+        "name": "Star Necklace"
+    },
+    "185": {
+        "type": "Neck",
+        "cost": 0,
+        "name": "Candy Necklace"
+    },
+    "186": {
+        "type": "Neck",
+        "cost": 300,
+        "name": "Ruffle Collar"
+    },
+    "191": {
+        "type": "Neck",
+        "cost": 0,
+        "name": "Life Vest"
+    },
+    "192": {
+        "type": "Neck",
+        "cost": 0,
+        "name": "Bandana"
+    },
+    "193": {
+        "type": "Neck",
+        "cost": 0,
+        "name": "Blue Lei"
+    },
+    "194": {
+        "type": "Neck",
+        "cost": 0,
+        "name": "Whistle"
+    },
+    "195": {
+        "type": "Neck",
+        "cost": 300,
+        "name": "Reporter Camera"
+    },
+    "201": {
+        "type": "Body",
+        "cost": 200,
+        "name": "Red Shirt"
+    },
+    "202": {
+        "type": "Body",
+        "cost": 200,
+        "name": "Blue Polo Shirt"
+    },
+    "203": {
+        "type": "Body",
+        "cost": 200,
+        "name": "Butterfly T-Shirt"
+    },
+    "204": {
+        "type": "Body",
+        "cost": 200,
+        "name": "Astro Barrier T-Shirt"
+    },
+    "205": {
+        "type": "Body",
+        "cost": 200,
+        "name": "I Love Puffle T-Shirt"
+    },
+    "206": {
+        "type": "Body",
+        "cost": 150,
+        "name": "Red Shirt"
+    },
+    "207": {
+        "type": "Body",
+        "cost": 0,
+        "name": "Snowflake Shirt"
+    },
+    "208": {
+        "type": "Body",
+        "cost": 150,
+        "name": "Sailor's Shirt"
+    },
+    "209": {
+        "type": "Body",
+        "cost": 240,
+        "name": "Flannel Shirt"
+    },
+    "210": {
+        "type": "Body",
+        "cost": 200,
+        "name": "Star T-Shirt"
+    },
+    "211": {
+        "type": "Body",
+        "cost": 250,
+        "name": "Hawaiian Shirt"
+    },
+    "212": {
+        "type": "Body",
+        "cost": 200,
+        "name": "Grass Skirt"
+    },
+    "213": {
+        "type": "Body",
+        "cost": 600,
+        "name": "Orange Snowsuit"
+    },
+    "214": {
+        "type": "Neck",
+        "cost": 50,
+        "name": "Bowtie"
+    },
+    "215": {
+        "type": "Body",
+        "cost": 500,
+        "name": "Life Jacket"
+    },
+    "216": {
+        "type": "Neck",
+        "cost": 0,
+        "name": "Free Bowtie"
+    },
+    "217": {
+        "type": "Body",
+        "cost": 420,
+        "name": "Cowboy Vest"
+    },
+    "218": {
+        "type": "Body",
+        "cost": 450,
+        "name": "Quilted Vest"
+    },
+    "219": {
+        "type": "Body",
+        "cost": 750,
+        "name": "Blue Coat"
+    },
+    "220": {
+        "type": "Hand",
+        "cost": 750,
+        "name": "Hockey Stick"
+    },
+    "221": {
+        "type": "Body",
+        "cost": 400,
+        "name": "Black Hoodie"
+    },
+    "222": {
+        "type": "Body",
+        "cost": 400,
+        "name": "Pink Hoodie"
+    },
+    "223": {
+        "type": "Body",
+        "cost": 400,
+        "name": "Green Hoodie"
+    },
+    "224": {
+        "type": "Body",
+        "cost": 400,
+        "name": "Purple Hoodie"
+    },
+    "225": {
+        "type": "Body",
+        "cost": 440,
+        "name": "Turtleneck Sweater"
+    },
+    "226": {
+        "type": "Body",
+        "cost": 440,
+        "name": "Turtleneck Sweater"
+    },
+    "227": {
+        "type": "Body",
+        "cost": 450,
+        "name": "Bee Costume"
+    },
+    "228": {
+        "type": "Body",
+        "cost": 550,
+        "name": "Princess Costume"
+    },
+    "229": {
+        "type": "Body",
+        "cost": 440,
+        "name": "Blue Turtleneck"
+    },
+    "230": {
+        "type": "Body",
+        "cost": 450,
+        "name": "Orange Jumper"
+    },
+    "231": {
+        "type": "Body",
+        "cost": 0,
+        "name": "Pirate Belt"
+    },
+    "232": {
+        "type": "Body",
+        "cost": 850,
+        "name": "Green Suede Jacket"
+    },
+    "233": {
+        "type": "Hand",
+        "cost": 975,
+        "name": "Electric Guitar"
+    },
+    "234": {
+        "type": "Hand",
+        "cost": 700,
+        "name": "Acoustic Guitar"
+    },
+    "235": {
+        "type": "Body",
+        "cost": 450,
+        "name": "Raincoat"
+    },
+    "236": {
+        "type": "Body",
+        "cost": 350,
+        "name": "Poncho"
+    },
+    "237": {
+        "type": "Body",
+        "cost": 850,
+        "name": "Red Suede Jacket"
+    },
+    "238": {
+        "type": "Body",
+        "cost": 850,
+        "name": "Pastal Suede Jacket"
+    },
+    "239": {
+        "type": "Body",
+        "cost": 600,
+        "name": "Wetsuit"
+    },
+    "240": {
+        "type": "Body",
+        "cost": 0,
+        "name": "Pizza Apron"
+    },
+    "241": {
+        "type": "Body",
+        "cost": 850,
+        "name": "Purple Suede Jacket"
+    },
+    "242": {
+        "type": "Body",
+        "cost": 600,
+        "name": "Victorian Dress"
+    },
+    "243": {
+        "type": "Body",
+        "cost": 500,
+        "name": "Parka"
+    },
+    "244": {
+        "type": "Body",
+        "cost": 600,
+        "name": "Ghost Costume"
+    },
+    "245": {
+        "type": "Body",
+        "cost": 700,
+        "name": "Orange Space Suit"
+    },
+    "246": {
+        "type": "Body",
+        "cost": 450,
+        "name": "Skeleton"
+    },
+    "247": {
+        "type": "Body",
+        "cost": 450,
+        "name": "Clown Suit"
+    },
+    "248": {
+        "type": "Body",
+        "cost": 460,
+        "name": "Kimono"
+    },
+    "249": {
+        "type": "Body",
+        "cost": 600,
+        "name": "Pink Snowsuit"
+    },
+    "250": {
+        "type": "Body",
+        "cost": 0,
+        "name": "Ice Cream Apron"
+    },
+    "251": {
+        "type": "Body",
+        "cost": 450,
+        "name": "Jean Jacket"
+    },
+    "252": {
+        "type": "Body",
+        "cost": 400,
+        "name": "Pink Dress"
+    },
+    "253": {
+        "type": "Body",
+        "cost": 400,
+        "name": "Purple Dress"
+    },
+    "254": {
+        "type": "Body",
+        "cost": 350,
+        "name": "Red Cheerleader"
+    },
+    "255": {
+        "type": "Body",
+        "cost": 350,
+        "name": "Blue Cheerleader"
+    },
+    "256": {
+        "type": "Body",
+        "cost": 450,
+        "name": "Ballerina"
+    },
+    "257": {
+        "type": "Body",
+        "cost": 400,
+        "name": "Spring Dress"
+    },
+    "258": {
+        "type": "Body",
+        "cost": 400,
+        "name": "Pirate Dress"
+    },
+    "259": {
+        "type": "Body",
+        "cost": 450,
+        "name": "Shamrock Dress"
+    },
+    "260": {
+        "type": "Body",
+        "cost": 580,
+        "name": "Formal Dress"
+    },
+    "261": {
+        "type": "Body",
+        "cost": 650,
+        "name": "Black Suit"
+    },
+    "262": {
+        "type": "Body",
+        "cost": 100,
+        "name": "Coffee Apron"
+    },
+    "263": {
+        "type": "Body",
+        "cost": 100,
+        "name": "Pizza Apron"
+    },
+    "264": {
+        "type": "Body",
+        "cost": 450,
+        "name": "Red Pirate Dress"
+    },
+    "265": {
+        "type": "Body",
+        "cost": 480,
+        "name": "Fishing Vest"
+    },
+    "266": {
+        "type": "Body",
+        "cost": 600,
+        "name": "Alien Suit"
+    },
+    "267": {
+        "type": "Body",
+        "cost": 250,
+        "name": "Red Shorts"
+    },
+    "268": {
+        "type": "Body",
+        "cost": 700,
+        "name": "Purple Space Suit"
+    },
+    "269": {
+        "type": "Body",
+        "cost": 250,
+        "name": "Pink Swimsuit"
+    },
+    "270": {
+        "type": "Body",
+        "cost": 300,
+        "name": "Purple Bikini"
+    },
+    "271": {
+        "type": "Body",
+        "cost": 300,
+        "name": "Yellow Bikini"
+    },
+    "272": {
+        "type": "Body",
+        "cost": 250,
+        "name": "Blue Shorts"
+    },
+    "273": {
+        "type": "Body",
+        "cost": 300,
+        "name": "Aqua Bikini"
+    },
+    "274": {
+        "type": "Body",
+        "cost": 0,
+        "name": "Inflatable Duck"
+    },
+    "275": {
+        "type": "Body",
+        "cost": 450,
+        "name": "Overalls"
+    },
+    "276": {
+        "type": "Body",
+        "cost": 800,
+        "name": "Robot Suit"
+    },
+    "277": {
+        "type": "Body",
+        "cost": 450,
+        "name": "Red Jersey"
+    },
+    "278": {
+        "type": "Body",
+        "cost": 450,
+        "name": "Blue Jersey"
+    },
+    "279": {
+        "type": "Body",
+        "cost": 550,
+        "name": "Pink Letterman Jacket"
+    },
+    "280": {
+        "type": "Body",
+        "cost": 550,
+        "name": "Green Letterman Jacket"
+    },
+    "281": {
+        "type": "Body",
+        "cost": 550,
+        "name": "Black Letterman Jacket"
+    },
+    "282": {
+        "type": "Body",
+        "cost": 750,
+        "name": "Lighthouse Shirt"
+    },
+    "283": {
+        "type": "Body",
+        "cost": 550,
+        "name": "Pink Duffle Coat"
+    },
+    "284": {
+        "type": "Body",
+        "cost": 350,
+        "name": "Elf Suit"
+    },
+    "285": {
+        "type": "Body",
+        "cost": 350,
+        "name": "Admiral Jacket"
+    },
+    "286": {
+        "type": "Body",
+        "cost": 640,
+        "name": "Flamenco Dress"
+    },
+    "287": {
+        "type": "Body",
+        "cost": 520,
+        "name": "Matador Outfit"
+    },
+    "288": {
+        "type": "Body",
+        "cost": 450,
+        "name": "Striped Overalls"
+    },
+    "289": {
+        "type": "Body",
+        "cost": 350,
+        "name": "Long Johns"
+    },
+    "290": {
+        "type": "Body",
+        "cost": 650,
+        "name": "Victorian Jacket"
+    },
+    "291": {
+        "type": "Body",
+        "cost": 560,
+        "name": "Leprechaun Tuxedo"
+    },
+    "292": {
+        "type": "Body",
+        "cost": 0,
+        "name": "Green Duck"
+    },
+    "293": {
+        "type": "Body",
+        "cost": 600,
+        "name": "Tuba"
+    },
+    "294": {
+        "type": "Body",
+        "cost": 800,
+        "name": "Tuxedo"
+    },
+    "295": {
+        "type": "Body",
+        "cost": 650,
+        "name": "Captain's Coat"
+    },
+    "296": {
+        "type": "Body",
+        "cost": 550,
+        "name": "Red Letterman Jacket"
+    },
+    "297": {
+        "type": "Body",
+        "cost": 180,
+        "name": "Lifeguard Shirt"
+    },
+    "298": {
+        "type": "Body",
+        "cost": 480,
+        "name": "Sport Life Jacket"
+    },
+    "299": {
+        "type": "Body",
+        "cost": 380,
+        "name": "Firefighter Jacket"
+    },
+    "301": {
+        "type": "Neck",
+        "cost": 500,
+        "name": "Superhero Cape"
+    },
+    "302": {
+        "type": "Neck",
+        "cost": 500,
+        "name": "Blue Cape"
+    },
+    "303": {
+        "type": "Neck",
+        "cost": 550,
+        "name": "Black Cape"
+    },
+    "304": {
+        "type": "Neck",
+        "cost": 0,
+        "name": "Lime Green Cape"
+    },
+    "305": {
+        "type": "Neck",
+        "cost": 550,
+        "name": "Magicians Cape"
+    },
+    "306": {
+        "type": "Neck",
+        "cost": 410,
+        "name": "Red Backpack"
+    },
+    "307": {
+        "type": "Neck",
+        "cost": 290,
+        "name": "Messenger Bag"
+    },
+    "308": {
+        "type": "Neck",
+        "cost": 480,
+        "name": "Scuba Tank"
+    },
+    "309": {
+        "type": "Neck",
+        "cost": 400,
+        "name": "Bee Wings"
+    },
+    "310": {
+        "type": "Neck",
+        "cost": 400,
+        "name": "Fairy Wings"
+    },
+    "312": {
+        "type": "Neck",
+        "cost": 410,
+        "name": "Blue Backpack"
+    },
+    "313": {
+        "type": "Neck",
+        "cost": 670,
+        "name": "Hiking Backpack"
+    },
+    "314": {
+        "type": "Neck",
+        "cost": 410,
+        "name": "Pink Backpack"
+    },
+    "315": {
+        "type": "Neck",
+        "cost": 500,
+        "name": "Pink Cape"
+    },
+    "321": {
+        "type": "Hand",
+        "cost": 200,
+        "name": "Flashing Lure Fishing Rod"
+    },
+    "322": {
+        "type": "Hand",
+        "cost": 175,
+        "name": "Gold Wristwatch"
+    },
+    "323": {
+        "type": "Hand",
+        "cost": 80,
+        "name": "Wrist Watch"
+    },
+    "324": {
+        "type": "Hand",
+        "cost": 200,
+        "name": "Pot O'Gold"
+    },
+    "325": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Water Wings"
+    },
+    "326": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Paddle Ball"
+    },
+    "327": {
+        "type": "Hand",
+        "cost": 150,
+        "name": "Lasso"
+    },
+    "328": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Bell"
+    },
+    "329": {
+        "type": "Hand",
+        "cost": 120,
+        "name": "Pompom"
+    },
+    "330": {
+        "type": "Hand",
+        "cost": 120,
+        "name": "Red Pompom"
+    },
+    "331": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Pumpkin Basket"
+    },
+    "332": {
+        "type": "Hand",
+        "cost": 150,
+        "name": "Magic Wand"
+    },
+    "333": {
+        "type": "Hand",
+        "cost": 120,
+        "name": "Blue Pompom"
+    },
+    "334": {
+        "type": "Hand",
+        "cost": 170,
+        "name": "Cane"
+    },
+    "335": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Maracas"
+    },
+    "336": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Lollipop"
+    },
+    "337": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Festive Maracas"
+    },
+    "338": {
+        "type": "Hand",
+        "cost": 975,
+        "name": "Black Electric Guitar"
+    },
+    "339": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Friendship Bracelet"
+    },
+    "340": {
+        "type": "Hand",
+        "cost": 120,
+        "name": "Drumsticks"
+    },
+    "341": {
+        "type": "Hand",
+        "cost": 100,
+        "name": "Flower Basket"
+    },
+    "342": {
+        "type": "Hand",
+        "cost": 300,
+        "name": "Snow Shovel"
+    },
+    "343": {
+        "type": "Hand",
+        "cost": 450,
+        "name": "Violin"
+    },
+    "344": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Life Ring"
+    },
+    "345": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Blue Water Wings"
+    },
+    "346": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Fishing Rod"
+    },
+    "347": {
+        "type": "Hand",
+        "cost": 120,
+        "name": "Flashlight"
+    },
+    "348": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Marshmallow Stick"
+    },
+    "349": {
+        "type": "Hand",
+        "cost": 250,
+        "name": "Tennis Racket"
+    },
+    "350": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Cotton Candy"
+    },
+    "351": {
+        "type": "Feet",
+        "cost": 400,
+        "name": "Leather Shoes"
+    },
+    "352": {
+        "type": "Feet",
+        "cost": 250,
+        "name": "Black Sneakers"
+    },
+    "353": {
+        "type": "Feet",
+        "cost": 180,
+        "name": "Ballet Shoes"
+    },
+    "354": {
+        "type": "Feet",
+        "cost": 300,
+        "name": "Clown Shoes"
+    },
+    "355": {
+        "type": "Feet",
+        "cost": 5,
+        "name": "Cement Shoes"
+    },
+    "357": {
+        "type": "Feet",
+        "cost": 330,
+        "name": "Blue Sneakers"
+    },
+    "358": {
+        "type": "Feet",
+        "cost": 420,
+        "name": "Black Dress Shoes"
+    },
+    "359": {
+        "type": "Feet",
+        "cost": 420,
+        "name": "Dress Shoes"
+    },
+    "360": {
+        "type": "Feet",
+        "cost": 300,
+        "name": "Running Shoes"
+    },
+    "361": {
+        "type": "Feet",
+        "cost": 300,
+        "name": "Snowshoes"
+    },
+    "362": {
+        "type": "Feet",
+        "cost": 250,
+        "name": "Scuba Flippers"
+    },
+    "363": {
+        "type": "Feet",
+        "cost": 150,
+        "name": "Yellow Sandals"
+    },
+    "364": {
+        "type": "Feet",
+        "cost": 225,
+        "name": "Blue Flippers"
+    },
+    "365": {
+        "type": "Feet",
+        "cost": 450,
+        "name": "Winter Boots"
+    },
+    "366": {
+        "type": "Feet",
+        "cost": 200,
+        "name": "Bunny Slippers"
+    },
+    "367": {
+        "type": "Feet",
+        "cost": 200,
+        "name": "Yellow Flippers"
+    },
+    "368": {
+        "type": "Feet",
+        "cost": 300,
+        "name": "Cowboy Boots"
+    },
+    "369": {
+        "type": "Feet",
+        "cost": 0,
+        "name": "Ice Skates"
+    },
+    "370": {
+        "type": "Feet",
+        "cost": 250,
+        "name": "Elf Shoes"
+    },
+    "371": {
+        "type": "Feet",
+        "cost": 320,
+        "name": "Skateboard"
+    },
+    "372": {
+        "type": "Feet",
+        "cost": 325,
+        "name": "Hiking Boots"
+    },
+    "373": {
+        "type": "Feet",
+        "cost": 280,
+        "name": "Rubber Boots"
+    },
+    "374": {
+        "type": "Feet",
+        "cost": 0,
+        "name": "Pirate Boots"
+    },
+    "375": {
+        "type": "Feet",
+        "cost": 200,
+        "name": "Pink Sandals"
+    },
+    "376": {
+        "type": "Feet",
+        "cost": 200,
+        "name": "Brown Sandals"
+    },
+    "377": {
+        "type": "Feet",
+        "cost": 260,
+        "name": "Blue Rollerskates"
+    },
+    "378": {
+        "type": "Feet",
+        "cost": 260,
+        "name": "Pink Rollerskates"
+    },
+    "379": {
+        "type": "Feet",
+        "cost": 100,
+        "name": "Wool Socks"
+    },
+    "380": {
+        "type": "Feet",
+        "cost": 250,
+        "name": "Fuzzy Boots"
+    },
+    "401": {
+        "type": "Head",
+        "cost": 300,
+        "name": "Sombrero"
+    },
+    "402": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Black Toque"
+    },
+    "403": {
+        "type": "Head",
+        "cost": 50,
+        "name": "Hard Hat"
+    },
+    "404": {
+        "type": "Head",
+        "cost": 250,
+        "name": "Cowboy Hat"
+    },
+    "405": {
+        "type": "Head",
+        "cost": 200,
+        "name": "Baseball Cap"
+    },
+    "406": {
+        "type": "Head",
+        "cost": 200,
+        "name": "Pink Ball Cap"
+    },
+    "407": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Propellor Cap"
+    },
+    "408": {
+        "type": "Head",
+        "cost": 50,
+        "name": "Flower Hat"
+    },
+    "409": {
+        "type": "Head",
+        "cost": 100,
+        "name": "Graduation Cap"
+    },
+    "410": {
+        "type": "Head",
+        "cost": 450,
+        "name": "Small Crown"
+    },
+    "411": {
+        "type": "Head",
+        "cost": 350,
+        "name": "Festive Sombrero"
+    },
+    "412": {
+        "type": "Head",
+        "cost": 200,
+        "name": "Tiara"
+    },
+    "413": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Party Hat"
+    },
+    "414": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Santa Hat"
+    },
+    "415": {
+        "type": "Head",
+        "cost": 200,
+        "name": "Pilgrim Hat"
+    },
+    "417": {
+        "type": "Head",
+        "cost": 225,
+        "name": "Brown Fedora"
+    },
+    "418": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Pink Toque"
+    },
+    "419": {
+        "type": "Head",
+        "cost": 600,
+        "name": "Russian Hat"
+    },
+    "420": {
+        "type": "Head",
+        "cost": 75,
+        "name": "Black Toque"
+    },
+    "421": {
+        "type": "Head",
+        "cost": 75,
+        "name": "Pink Toque"
+    },
+    "422": {
+        "type": "Head",
+        "cost": 50,
+        "name": "Newspaper Hat"
+    },
+    "423": {
+        "type": "Head",
+        "cost": 350,
+        "name": "Top Hat"
+    },
+    "424": {
+        "type": "Head",
+        "cost": 50,
+        "name": "Chef Hat"
+    },
+    "425": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Lucky Hat"
+    },
+    "426": {
+        "type": "Head",
+        "cost": 250,
+        "name": "Jester Hat"
+    },
+    "427": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Easter Bunny Hat"
+    },
+    "428": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Tour Guide Hat"
+    },
+    "429": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Miners Helmet"
+    },
+    "430": {
+        "type": "Head",
+        "cost": 0,
+        "name": "2nd Year Party Hat"
+    },
+    "431": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Blue Propellor Cap"
+    },
+    "432": {
+        "type": "Head",
+        "cost": 250,
+        "name": "Safari Hat"
+    },
+    "433": {
+        "type": "Head",
+        "cost": 250,
+        "name": "Black Cowboy Hat"
+    },
+    "434": {
+        "type": "Head",
+        "cost": 250,
+        "name": "Pink Cowgirl Hat"
+    },
+    "435": {
+        "type": "Head",
+        "cost": 200,
+        "name": "Red Ball Cap"
+    },
+    "436": {
+        "type": "Head",
+        "cost": 200,
+        "name": "Blue Ball Cap"
+    },
+    "437": {
+        "type": "Head",
+        "cost": 200,
+        "name": "Straw Hat"
+    },
+    "438": {
+        "type": "Head",
+        "cost": 150,
+        "name": "Blue Toque"
+    },
+    "439": {
+        "type": "Head",
+        "cost": 210,
+        "name": "Park Ranger Hat"
+    },
+    "440": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Sailor's Cap"
+    },
+    "441": {
+        "type": "Head",
+        "cost": 400,
+        "name": "Admiral's Hat"
+    },
+    "443": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Wizard Hat"
+    },
+    "444": {
+        "type": "Head",
+        "cost": 0,
+        "name": "1st Year Party Hat"
+    },
+    "445": {
+        "type": "Head",
+        "cost": 120,
+        "name": "Green Toque"
+    },
+    "446": {
+        "type": "Head",
+        "cost": 220,
+        "name": "Fishing Hat"
+    },
+    "447": {
+        "type": "Head",
+        "cost": 150,
+        "name": "Elf Hat"
+    },
+    "448": {
+        "type": "Head",
+        "cost": 550,
+        "name": "Winter Cape"
+    },
+    "449": {
+        "type": "Head",
+        "cost": 350,
+        "name": "Fruit Headdress"
+    },
+    "450": {
+        "type": "Head",
+        "cost": 180,
+        "name": "Earflap Cap"
+    },
+    "451": {
+        "type": "Head",
+        "cost": 800,
+        "name": "Roman Helmet"
+    },
+    "452": {
+        "type": "Head",
+        "cost": 750,
+        "name": "Viking Helmet"
+    },
+    "453": {
+        "type": "Head",
+        "cost": 550,
+        "name": "Football Helmet"
+    },
+    "454": {
+        "type": "Head",
+        "cost": 350,
+        "name": "Bike Helmet"
+    },
+    "455": {
+        "type": "Head",
+        "cost": 650,
+        "name": "Pink Viking Helmet"
+    },
+    "456": {
+        "type": "Head",
+        "cost": 1200,
+        "name": "Blue Viking Helmet"
+    },
+    "457": {
+        "type": "Head",
+        "cost": 650,
+        "name": "Divers Helmet"
+    },
+    "458": {
+        "type": "Head",
+        "cost": 500,
+        "name": "Space Helmet"
+    },
+    "460": {
+        "type": "Head",
+        "cost": 1500,
+        "name": "Gold Viking Helmet"
+    },
+    "461": {
+        "type": "Head",
+        "cost": 220,
+        "name": "Hockey Helmet"
+    },
+    "462": {
+        "type": "Head",
+        "cost": 360,
+        "name": "Red Football Helmet"
+    },
+    "463": {
+        "type": "Head",
+        "cost": 360,
+        "name": "Blue Football Helmet"
+    },
+    "464": {
+        "type": "Head",
+        "cost": 400,
+        "name": "Snowboard Helmet"
+    },
+    "465": {
+        "type": "Head",
+        "cost": 130,
+        "name": "Firefighter Hat"
+    },
+    "466": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Angel Halo"
+    },
+    "467": {
+        "type": "Head",
+        "cost": 200,
+        "name": "Pink Pom Pom Toque"
+    },
+    "468": {
+        "type": "Head",
+        "cost": 200,
+        "name": "Alien Antenna"
+    },
+    "469": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Umbrella Hat"
+    },
+    "470": {
+        "type": "Head",
+        "cost": 280,
+        "name": "Feathered Hat"
+    },
+    "471": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Reindeer Antlers"
+    },
+    "472": {
+        "type": "Head",
+        "cost": 200,
+        "name": "Bee Antenna"
+    },
+    "473": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Winged Helmet"
+    },
+    "474": {
+        "type": "Head",
+        "cost": 210,
+        "name": "Clown Wig"
+    },
+    "475": {
+        "type": "Head",
+        "cost": 400,
+        "name": "Countess Steeple Hat"
+    },
+    "476": {
+        "type": "Head",
+        "cost": 200,
+        "name": "Bard Hat"
+    },
+    "477": {
+        "type": "Head",
+        "cost": 250,
+        "name": "Court Jester Hat"
+    },
+    "478": {
+        "type": "Head",
+        "cost": 300,
+        "name": "Coral Crown"
+    },
+    "479": {
+        "type": "Head",
+        "cost": 450,
+        "name": "Moose Mascot Costume"
+    },
+    "480": {
+        "type": "Head",
+        "cost": 450,
+        "name": "Parrot Mascot Costume"
+    },
+    "481": {
+        "type": "Head",
+        "cost": 350,
+        "name": "Headphones"
+    },
+    "482": {
+        "type": "Head",
+        "cost": 200,
+        "name": "Stocking Cap"
+    },
+    "483": {
+        "type": "Head",
+        "cost": 250,
+        "name": "Blue Earmuffs"
+    },
+    "484": {
+        "type": "Head",
+        "cost": 250,
+        "name": "Pink Earmuffs"
+    },
+    "485": {
+        "type": "Head",
+        "cost": 300,
+        "name": "Bonnet"
+    },
+    "486": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Feathered Tiara"
+    },
+    "487": {
+        "type": "Head",
+        "cost": 300,
+        "name": "Princess Hat"
+    },
+    "488": {
+        "type": "Head",
+        "cost": 100,
+        "name": "Head Band"
+    },
+    "489": {
+        "type": "Head",
+        "cost": 250,
+        "name": "Director's Hat"
+    },
+    "490": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Pirate Bandana"
+    },
+    "491": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Ice Crown"
+    },
+    "492": {
+        "type": "Head",
+        "cost": 300,
+        "name": "Floppy Hat"
+    },
+    "493": {
+        "type": "Head",
+        "cost": 350,
+        "name": "Tricorn Hat"
+    },
+    "494": {
+        "type": "Head",
+        "cost": 250,
+        "name": "Golf Hat"
+    },
+    "495": {
+        "type": "Head",
+        "cost": 360,
+        "name": "Marching Band Hat"
+    },
+    "496": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Blue Bunny Ears"
+    },
+    "497": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Sailor Hat"
+    },
+    "498": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Puffle Bandana"
+    },
+    "499": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Flower Headdress"
+    },
+    "500": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Canada"
+    },
+    "501": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "USA"
+    },
+    "502": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Australia"
+    },
+    "503": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "United Kingdom"
+    },
+    "504": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Belgium"
+    },
+    "505": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Brazil"
+    },
+    "506": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "China"
+    },
+    "507": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Denmark"
+    },
+    "508": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Finland"
+    },
+    "509": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "France"
+    },
+    "510": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Germany"
+    },
+    "511": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Israel"
+    },
+    "512": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Japan"
+    },
+    "513": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Korea"
+    },
+    "514": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Neatherlands"
+    },
+    "515": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Norway"
+    },
+    "516": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Poland"
+    },
+    "517": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Russia"
+    },
+    "518": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Spain"
+    },
+    "519": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Sweden"
+    },
+    "520": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Switzerland"
+    },
+    "521": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Turkey"
+    },
+    "522": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Mexico"
+    },
+    "523": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "New Zealand"
+    },
+    "524": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Ireland"
+    },
+    "525": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Portugal"
+    },
+    "526": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "South Africa"
+    },
+    "527": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "India"
+    },
+    "528": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Italy"
+    },
+    "529": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Belize"
+    },
+    "530": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Egypt"
+    },
+    "531": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Hungary"
+    },
+    "532": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Antarctica"
+    },
+    "533": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Argentina"
+    },
+    "534": {
+        "type": "Flag",
+        "cost": 20,
+        "name": "Jamaica"
+    },
+    "550": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Shamrock"
+    },
+    "551": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Music Note"
+    },
+    "552": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Plant"
+    },
+    "553": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Pizza Slice"
+    },
+    "554": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Balloon"
+    },
+    "555": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Mining Lantern"
+    },
+    "556": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Beach Ball"
+    },
+    "557": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Sun"
+    },
+    "558": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Horse Shoe"
+    },
+    "559": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Astro"
+    },
+    "560": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Hockey"
+    },
+    "561": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Soccer"
+    },
+    "562": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Pencil"
+    },
+    "563": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Lighthouse"
+    },
+    "564": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Telescope"
+    },
+    "565": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Pirate Flag"
+    },
+    "566": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Pumpkin"
+    },
+    "567": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Jet Pack"
+    },
+    "568": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Life Ring"
+    },
+    "569": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Bonfire"
+    },
+    "570": {
+        "type": "Flag",
+        "cost": 50,
+        "name": "Christmas Tree Pin"
+    },
+    "571": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Candy Cane"
+    },
+    "572": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Apple"
+    },
+    "573": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Cactus"
+    },
+    "574": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Teddy Bear"
+    },
+    "575": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Ice Block"
+    },
+    "576": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Shrimp Pin"
+    },
+    "577": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Pot of Gold"
+    },
+    "578": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Cardboard Box"
+    },
+    "579": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Microphone"
+    },
+    "580": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Gem"
+    },
+    "581": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Tulip"
+    },
+    "582": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Starfish"
+    },
+    "583": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Surfboard"
+    },
+    "584": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Picnic Basket"
+    },
+    "585": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Water Droplet"
+    },
+    "586": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Cart"
+    },
+    "587": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Butterfly"
+    },
+    "588": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Tent"
+    },
+    "589": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Baseball"
+    },
+    "590": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Jellyfish"
+    },
+    "591": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Circus Tent"
+    },
+    "592": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Ping Pong Paddle"
+    },
+    "593": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Hairbrush"
+    },
+    "594": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Spider"
+    },
+    "595": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "UFO"
+    },
+    "596": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Needle"
+    },
+    "597": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Holly"
+    },
+    "598": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Wreath"
+    },
+    "599": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Snow Shovel"
+    },
+    "600": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Sombrero"
+    },
+    "601": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Rowboat"
+    },
+    "602": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Anchor"
+    },
+    "603": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Golden Wheel"
+    },
+    "604": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Aqua Grabber"
+    },
+    "605": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Book"
+    },
+    "606": {
+        "type": "Flag",
+        "cost": 0,
+        "name": "Crayon"
+    },
+    "650": {
+        "type": "Head",
+        "cost": 750,
+        "name": "The Rocker"
+    },
+    "651": {
+        "type": "Head",
+        "cost": 500,
+        "name": "The Spikester"
+    },
+    "652": {
+        "type": "Head",
+        "cost": 600,
+        "name": "The Disco"
+    },
+    "653": {
+        "type": "Head",
+        "cost": 500,
+        "name": "The Funster"
+    },
+    "654": {
+        "type": "Head",
+        "cost": 750,
+        "name": "The Beekeeper"
+    },
+    "655": {
+        "type": "Head",
+        "cost": 600,
+        "name": "The Sportster"
+    },
+    "656": {
+        "type": "Head",
+        "cost": 550,
+        "name": "The Sunstriker"
+    },
+    "657": {
+        "type": "Head",
+        "cost": 600,
+        "name": "The Flutterby"
+    },
+    "658": {
+        "type": "Head",
+        "cost": 500,
+        "name": "The Sidetied"
+    },
+    "659": {
+        "type": "Head",
+        "cost": 300,
+        "name": "Pirate Mascot Hat"
+    },
+    "660": {
+        "type": "Head",
+        "cost": 250,
+        "name": "Cocoa Bunny Ears"
+    },
+    "661": {
+        "type": "Head",
+        "cost": 650,
+        "name": "The Cleo"
+    },
+    "662": {
+        "type": "Head",
+        "cost": 550,
+        "name": "The Surf Knot"
+    },
+    "663": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Gigantic St. Patrick's Hat"
+    },
+    "664": {
+        "type": "Head",
+        "cost": 0,
+        "name": "Green Bunny Ears"
+    },
+    "701": {
+        "type": "Hand",
+        "cost": 400,
+        "name": "Flame Surfboard"
+    },
+    "702": {
+        "type": "Hand",
+        "cost": 400,
+        "name": "Daisy Surfboard"
+    },
+    "703": {
+        "type": "Hand",
+        "cost": 800,
+        "name": "Silver Surfboard"
+    },
+    "711": {
+        "type": "Hand",
+        "cost": 300,
+        "name": "Yellow Arrow Wakeboard"
+    },
+    "712": {
+        "type": "Hand",
+        "cost": 300,
+        "name": "Pink Striped Wakeboard"
+    },
+    "720": {
+        "type": "Body",
+        "cost": 500,
+        "name": "Blue Football Jersey"
+    },
+    "721": {
+        "type": "Body",
+        "cost": 500,
+        "name": "Red Football Jersey"
+    },
+    "722": {
+        "type": "Body",
+        "cost": 300,
+        "name": "Referee Jersey"
+    },
+    "750": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Blue Puffle"
+    },
+    "751": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Pink Puffle"
+    },
+    "752": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Black Puffle"
+    },
+    "753": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Green Puffle"
+    },
+    "754": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Purple Puffle"
+    },
+    "755": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Red Puffle"
+    },
+    "756": {
+        "type": "Hand",
+        "cost": 0,
+        "name": "Yellow Puffle"
+    },
+    "760": {
+        "type": "Body",
+        "cost": 600,
+        "name": "Countess Dress"
+    },
+    "761": {
+        "type": "Body",
+        "cost": 550,
+        "name": "Bard Outfit"
+    },
+    "762": {
+        "type": "Body",
+        "cost": 550,
+        "name": "Court Jester"
+    },
+    "763": {
+        "type": "Body",
+        "cost": 500,
+        "name": "Fish Costume"
+    },
+    "764": {
+        "type": "Body",
+        "cost": 400,
+        "name": "Winter Poncho"
+    },
+    "765": {
+        "type": "Body",
+        "cost": 550,
+        "name": "Shadow Guy Costume"
+    },
+    "766": {
+        "type": "Body",
+        "cost": 550,
+        "name": "Gamma Gal Costume"
+    },
+    "767": {
+        "type": "Body",
+        "cost": 600,
+        "name": "Squidzoid Costume"
+    },
+    "768": {
+        "type": "Body",
+        "cost": 800,
+        "name": "Mermaid Outfit"
+    },
+    "769": {
+        "type": "Body",
+        "cost": 620,
+        "name": "White Admiral Jacket"
+    },
+    "770": {
+        "type": "Body",
+        "cost": 200,
+        "name": "Safety Vest"
+    },
+    "771": {
+        "type": "Body",
+        "cost": 550,
+        "name": "Track Jacket"
+    },
+    "772": {
+        "type": "Body",
+        "cost": 600,
+        "name": "Pirate Mascot Costume"
+    },
+    "773": {
+        "type": "Body",
+        "cost": 500,
+        "name": "Penguin Band Hoodie"
+    },
+    "774": {
+        "type": "Body",
+        "cost": 0,
+        "name": "Seashell Belt"
+    },
+    "775": {
+        "type": "Body",
+        "cost": 600,
+        "name": "Red Soccer Jersey"
+    },
+    "778": {
+        "type": "Body",
+        "cost": 600,
+        "name": "Blue Soccer Jersey"
+    },
+    "780": {
+        "type": "Body",
+        "cost": 500,
+        "name": "Daisy Zippered Hoodie"
+    },
+    "781": {
+        "type": "Body",
+        "cost": 400,
+        "name": "Striped Rugby Shirt"
+    },
+    "782": {
+        "type": "Body",
+        "cost": 550,
+        "name": "Cocoa Bunny Costume"
+    },
+    "800": {
+        "type": "Other",
+        "cost": 0,
+        "name": "Spy Phone"
+    },
+    "801": {
+        "type": "Other",
+        "cost": 0,
+        "name": "Mission 1 Medal"
+    },
+    "802": {
+        "type": "Other",
+        "cost": 0,
+        "name": "Letter from Aunt Arctic"
+    },
+    "803": {
+        "type": "Other",
+        "cost": 0,
+        "name": "Mission 2 Medal"
+    },
+    "804": {
+        "type": "Other",
+        "cost": 0,
+        "name": "Letter from G"
+    },
+    "805": {
+        "type": "Other",
+        "cost": 0,
+        "name": "Mission 3 Medal"
+    },
+    "806": {
+        "type": "Other",
+        "cost": 0,
+        "name": "Card from Dancing Penguin"
+    },
+    "807": {
+        "type": "Other",
+        "cost": 0,
+        "name": "Forest Map"
+    },
+    "808": {
+        "type": "Other",
+        "cost": 0,
+        "name": "Mission 4 Medal"
+    },
+    "809": {
+        "type": "Other",
+        "cost": 0,
+        "name": "Handy Penguin Award"
+    },
+    "810": {
+        "type": "Other",
+        "cost": 0,
+        "name": "Mission 5 Medal"
+    },
+    "811": {
+        "type": "Other",
+        "cost": 0,
+        "name": "Box of Pizza"
+    },
+    "812": {
+        "type": "Other",
+        "cost": 0,
+        "name": "Coins For Change Card"
+    },
+    "813": {
+        "type": "Other",
+        "cost": 0,
+        "name": "Mission 6 Medal"
+    },
+    "814": {
+        "type": "Other",
+        "cost": 0,
+        "name": "Magnet Blueprints"
+    }
+}

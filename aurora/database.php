@@ -50,11 +50,29 @@ class database extends \mysqli {
         $statement->execute();
     }
 
+    public function update_coins($penguin_id, $coins) {
+        $statement = $this->prepare("update penguins set coins = ? where id = ?");
+        $statement->bind_param("ii", $coins, $penguin_id);
+        $statement->execute();
+    }
+
     public function find_items($id) {
-        $statement = $this->prepare("select item_id from items where penguin_id = ?");
+        $statement = $this->prepare("select * from items where penguin_id = ?");
         $statement->bind_param("i", $id);
         $statement->execute();
+        
+        return array_column($statement->get_result()->fetch_all(), 1);
+    }
 
-        return $statement->get_result()->fetch_all();
+    public function create_item($penguin_id, $item_id) {
+        $statement = $this->prepare("insert into items (penguin_id, item_id) values (?, ?)");
+        $statement->bind_param("ii", $penguin_id, $item_id);
+        $statement->execute();
+    }
+
+    public function update_item($penguin_id, $item_type, $item_id) {
+        $statement = $this->prepare("update penguins set $item_type = ? where id = ?");
+        $statement->bind_param("ii", $item_id, $penguin_id);
+        $statement->execute();
     }
 }
