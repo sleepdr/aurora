@@ -19,7 +19,15 @@ class world extends aurora\server {
         parent::__construct($host, $port);
     }
 
-    private function find_penguin($socket) {
+    public function find_username($username) {
+        foreach($this->penguins as & $penguin) {
+            if($penguin->data && !strcasecmp($penguin->data["username"], $username)) {
+                return $penguin;
+            }
+        }
+    }
+
+    private function find_socket($socket) {
         foreach($this->penguins as & $penguin) {
             if($penguin->socket == $socket) return $penguin;
         }
@@ -41,11 +49,13 @@ class world extends aurora\server {
     }
 
     protected function handle_close($socket) {
-        $penguin = $this->find_penguin($socket);
+        $penguin = $this->find_socket($socket);
+        $penguin->room && $penguin->room->remove_penguin($penguin);
+        array_splice($this->penguins, array_search($penguin, $this->penguins), 1);
     }
 
     protected function handle_read($socket, $data) {
-        $penguin = $this->find_penguin($socket);
+        $penguin = $this->find_socket($socket);
         $packets = $penguin->protocol->dump($data);
         
         foreach($packets as & $packet) {

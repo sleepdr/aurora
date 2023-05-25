@@ -31,6 +31,16 @@ class penguin {
         $this->write("%xt%" . implode("%", $data) . "%");
     }
 
+    public function reset() {
+        $this->room && $this->room->remove_penguin($this);
+        $this->data = null;
+        $this->room = null;
+        $this->x = null;
+        $this->y = null;
+        $this->frame = null;
+        $this->coins_earned = null;
+    }
+
     public function to_string() {
         return implode("|", array(
             $this->data["id"],
