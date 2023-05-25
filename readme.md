@@ -1,7 +1,6 @@
 # aurora
 
-a php implementation of club penguin's original 2005 protocol
+- a php implementation of club penguin's original 2005 protocol
+- based on [slippers](https://github.com/wizguin/slippers) by wizguin
 
-# developer notes
-- aurora is in development and not production ready
-- i hate camel case and pascal case
+![aurora](https://i.imgur.com/e6FNtEQ.png)
