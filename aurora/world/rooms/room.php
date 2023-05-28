@@ -29,7 +29,7 @@ class room {
 
     public function add_penguin(& $penguin) {
         if($this->is_game)
-            return $penguin->send_xt("jg", $this->internal, $this->id);
+            return $penguin->write_xt("jg", $this->internal, $this->id);
 
         array_push($this->penguins, $penguin);
 
